@@ -13,7 +13,7 @@
 	<section>
 		<HeroCourt>
 			<div class="masthead">
-				<span class="eyebrow">Pub Fund · 2026–27</span>
+				<span class="eyebrow">EOY KITTY · 2026–27</span>
 				<h1 class="title">Anchor Men</h1>
 			</div>
 		</HeroCourt>
@@ -47,6 +47,9 @@
 		margin-inline: auto;
 		padding: 1rem;
 		background-color: black;
+		font-family:
+			'Helvetica Neue Condensed Bold', 'Arial', 'Arial Black', 'Helvetica Neue', Arial, sans-serif;
+		font-weight: 700;
 	}
 
 	.options {

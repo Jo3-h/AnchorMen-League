@@ -14,9 +14,9 @@ import type { League, DayRoster } from './espn';
 
 export const RULES = {
 	churnCents: 150, // per free-agent / waiver pickup
-	lossCents: 300, // per head-to-head loss
+	lossCents: 500, // per head-to-head loss
 	tradeCents: -200, // per completed trade (a credit)
-	benchCents: 100, // per "bench blunder"
+	benchCents: 150, // per "bench blunder"
 	benchSlot: 12, // lineupSlotId for the bench: check against your data
 	irSlot: 13 // lineupSlotId for IR: never counts as benched
 };
