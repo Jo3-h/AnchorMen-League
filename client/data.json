@@ -1,0 +1,320 @@
+{
+	"pubFund": {
+		"generatedAt": "2026-11-01T04:54:13.854Z",
+		"poolCents": 6450,
+		"teams": [
+			{
+				"rank": 1,
+				"teamId": 8,
+				"teamName": "The Piggery  ",
+				"ownerName": "hamish petherick",
+				"logo": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/59f5d030-cc5e-11f1-8920-035269672fca",
+				"totalCents": 1150,
+				"byRule": {
+					"churn": { "count": 5, "cents": 750 },
+					"loss": { "count": 1, "cents": 300 },
+					"trade": { "count": 0, "cents": 0 },
+					"bench": { "count": 1, "cents": 100 }
+				},
+				"charges": [
+					{
+						"teamId": 8,
+						"rule": "churn",
+						"amountCents": 300,
+						"qty": 2,
+						"week": 2,
+						"detail": "2 pickups in week 2"
+					},
+					{
+						"teamId": 8,
+						"rule": "bench",
+						"amountCents": 100,
+						"qty": 1,
+						"day": 9,
+						"detail": "Benched Kyrie Irving (40) over Austin Reaves (8) on day 9"
+					},
+					{
+						"teamId": 8,
+						"rule": "churn",
+						"amountCents": 450,
+						"qty": 3,
+						"week": 1,
+						"detail": "3 pickups in week 1"
+					},
+					{
+						"teamId": 8,
+						"rule": "loss",
+						"amountCents": 300,
+						"qty": 1,
+						"week": 1,
+						"detail": "Lost to Flint Michigan Tropics 1161–1256 in week 1"
+					}
+				]
+			},
+			{
+				"rank": 2,
+				"teamId": 4,
+				"teamName": "Flint Michigan Tropics",
+				"ownerName": "Kiefer Scharkie",
+				"logo": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/e275d5c0-cae9-11f1-9459-71d387b8b11c",
+				"totalCents": 1050,
+				"byRule": {
+					"churn": { "count": 7, "cents": 1050 },
+					"loss": { "count": 0, "cents": 0 },
+					"trade": { "count": 0, "cents": 0 },
+					"bench": { "count": 0, "cents": 0 }
+				},
+				"charges": [
+					{
+						"teamId": 4,
+						"rule": "churn",
+						"amountCents": 600,
+						"qty": 4,
+						"week": 2,
+						"detail": "4 pickups in week 2"
+					},
+					{
+						"teamId": 4,
+						"rule": "churn",
+						"amountCents": 450,
+						"qty": 3,
+						"week": 1,
+						"detail": "3 pickups in week 1"
+					}
+				]
+			},
+			{
+				"rank": 3,
+				"teamId": 5,
+				"teamName": "Sweet Home Wembanyama",
+				"ownerName": "Michael Verano",
+				"logo": "https://i.imgur.com/nJ8tRE8.png",
+				"totalCents": 1000,
+				"byRule": {
+					"churn": { "count": 6, "cents": 900 },
+					"loss": { "count": 0, "cents": 0 },
+					"trade": { "count": 0, "cents": 0 },
+					"bench": { "count": 1, "cents": 100 }
+				},
+				"charges": [
+					{
+						"teamId": 5,
+						"rule": "churn",
+						"amountCents": 450,
+						"qty": 3,
+						"week": 2,
+						"detail": "3 pickups in week 2"
+					},
+					{
+						"teamId": 5,
+						"rule": "bench",
+						"amountCents": 100,
+						"qty": 1,
+						"day": 11,
+						"detail": "Benched Moussa Diabate (29) over Victor Wembanyama (0) on day 11"
+					},
+					{
+						"teamId": 5,
+						"rule": "churn",
+						"amountCents": 450,
+						"qty": 3,
+						"week": 1,
+						"detail": "3 pickups in week 1"
+					}
+				]
+			},
+			{
+				"rank": 4,
+				"teamId": 6,
+				"teamName": "Flagg Favs",
+				"ownerName": "Harvey Brown",
+				"logo": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/e65462c0-cad9-11f1-9206-194cc5a451ca",
+				"totalCents": 950,
+				"byRule": {
+					"churn": { "count": 3, "cents": 450 },
+					"loss": { "count": 1, "cents": 300 },
+					"trade": { "count": 0, "cents": 0 },
+					"bench": { "count": 2, "cents": 200 }
+				},
+				"charges": [
+					{
+						"teamId": 6,
+						"rule": "churn",
+						"amountCents": 450,
+						"qty": 3,
+						"week": 2,
+						"detail": "3 pickups in week 2"
+					},
+					{
+						"teamId": 6,
+						"rule": "bench",
+						"amountCents": 100,
+						"qty": 1,
+						"day": 9,
+						"detail": "Benched Ajay Mitchell (53) over Kel'el Ware (7) on day 9"
+					},
+					{
+						"teamId": 6,
+						"rule": "loss",
+						"amountCents": 300,
+						"qty": 1,
+						"week": 1,
+						"detail": "Lost to Team Sugma 1149–1316 in week 1"
+					},
+					{
+						"teamId": 6,
+						"rule": "bench",
+						"amountCents": 100,
+						"qty": 1,
+						"day": 4,
+						"detail": "Benched Ryan Rollins (28) over Desmond Bane (-1) on day 4"
+					}
+				]
+			},
+			{
+				"rank": 5,
+				"teamId": 1,
+				"teamName": "Curry Boys",
+				"ownerName": "Teegan Steel",
+				"logo": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/d4fcb830-cb45-11f1-bd46-f51e52ec2cd8",
+				"totalCents": 750,
+				"byRule": {
+					"churn": { "count": 3, "cents": 450 },
+					"loss": { "count": 1, "cents": 300 },
+					"trade": { "count": 0, "cents": 0 },
+					"bench": { "count": 0, "cents": 0 }
+				},
+				"charges": [
+					{
+						"teamId": 1,
+						"rule": "churn",
+						"amountCents": 300,
+						"qty": 2,
+						"week": 2,
+						"detail": "2 pickups in week 2"
+					},
+					{
+						"teamId": 1,
+						"rule": "churn",
+						"amountCents": 150,
+						"qty": 1,
+						"week": 1,
+						"detail": "1 pickup in week 1"
+					},
+					{
+						"teamId": 1,
+						"rule": "loss",
+						"amountCents": 300,
+						"qty": 1,
+						"week": 1,
+						"detail": "Lost to Rehab Centre 1006–1358 in week 1"
+					}
+				]
+			},
+			{
+				"rank": 6,
+				"teamId": 3,
+				"teamName": "Bal dont lie",
+				"ownerName": "Alex Siemelink",
+				"logo": "https://g.espncdn.com/lm-static/fba/images/default_logos/1.svg",
+				"totalCents": 600,
+				"byRule": {
+					"churn": { "count": 2, "cents": 300 },
+					"loss": { "count": 1, "cents": 300 },
+					"trade": { "count": 0, "cents": 0 },
+					"bench": { "count": 0, "cents": 0 }
+				},
+				"charges": [
+					{
+						"teamId": 3,
+						"rule": "churn",
+						"amountCents": 300,
+						"qty": 2,
+						"week": 2,
+						"detail": "2 pickups in week 2"
+					},
+					{
+						"teamId": 3,
+						"rule": "loss",
+						"amountCents": 300,
+						"qty": 1,
+						"week": 1,
+						"detail": "Lost to Sweet Home Wembanyama 1120–1122 in week 1"
+					}
+				]
+			},
+			{
+				"rank": 7,
+				"teamId": 2,
+				"teamName": "Team Sugma",
+				"ownerName": "Gabriel Bayliss",
+				"logo": "https://g.espncdn.com/lm-static/logo-packs/fba/8-bitHeros-JoeyEllis/8bit_basketball-03.svg",
+				"totalCents": 600,
+				"byRule": {
+					"churn": { "count": 4, "cents": 600 },
+					"loss": { "count": 0, "cents": 0 },
+					"trade": { "count": 0, "cents": 0 },
+					"bench": { "count": 0, "cents": 0 }
+				},
+				"charges": [
+					{
+						"teamId": 2,
+						"rule": "churn",
+						"amountCents": 450,
+						"qty": 3,
+						"week": 2,
+						"detail": "3 pickups in week 2"
+					},
+					{
+						"teamId": 2,
+						"rule": "churn",
+						"amountCents": 150,
+						"qty": 1,
+						"week": 1,
+						"detail": "1 pickup in week 1"
+					}
+				]
+			},
+			{
+				"rank": 8,
+				"teamId": 7,
+				"teamName": "Rehab Centre",
+				"ownerName": "Joe Hosking",
+				"logo": "https://mystique-api.fantasy.espn.com/apis/v1/domains/lm/images/d91b5db0-ccf1-11f1-91e2-3915bbb7cba0",
+				"totalCents": 350,
+				"byRule": {
+					"churn": { "count": 1, "cents": 150 },
+					"loss": { "count": 0, "cents": 0 },
+					"trade": { "count": 0, "cents": 0 },
+					"bench": { "count": 2, "cents": 200 }
+				},
+				"charges": [
+					{
+						"teamId": 7,
+						"rule": "churn",
+						"amountCents": 150,
+						"qty": 1,
+						"week": 2,
+						"detail": "1 pickup in week 2"
+					},
+					{
+						"teamId": 7,
+						"rule": "bench",
+						"amountCents": 100,
+						"qty": 1,
+						"day": 4,
+						"detail": "Benched RJ Barrett (46) over LaMelo Ball (26) on day 4"
+					},
+					{
+						"teamId": 7,
+						"rule": "bench",
+						"amountCents": 100,
+						"qty": 1,
+						"day": 2,
+						"detail": "Benched Zach LaVine (33) over Caleb Wilson (11) on day 2"
+					}
+				]
+			}
+		]
+	}
+}
