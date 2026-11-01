@@ -9,6 +9,10 @@
 	let selectedOption: (typeof options)[number] = $state(options[0]);
 </script>
 
+<svelte:head>
+	<title>Anchor Men · EOY KITTY 2026–27</title>
+</svelte:head>
+
 <div class="page">
 	<section>
 		<HeroCourt>
@@ -43,6 +47,7 @@
 	.page {
 		display: grid;
 		gap: 0.5rem;
+		width: 100%;
 		max-width: 30rem;
 		margin-inline: auto;
 		padding: 1rem;

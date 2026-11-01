@@ -1,0 +1,4 @@
+html {
+	/* scales linearly from 60% at 300px viewport width to 100% at 600px, clamped outside that range */
+	font-size: clamp(60%, calc(60% + 40% * ((100vw - 300px) / 300px)), 90%);
+}
